@@ -1,0 +1,23 @@
+
+.App{
+    margin: 0 0 0 600px;
+}
+sup{
+    color: red;
+}
+input{
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+select{
+    width: 213px;
+    padding: 5px;
+}
+button{
+    margin: 10px 0 0 125px;
+    padding: 8px 19px;
+    background-color:green ;
+    color: #fff;
+    border: none;
+}
